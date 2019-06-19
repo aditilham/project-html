@@ -1,4 +1,4 @@
 #   PERSONAL WEBSITE
 
 Welcome to my personal website
-you can check it out <a href="/index.html">Here</a>
+you can check it out <a href="https://aditilham-web.netlify.com">Here</a>
